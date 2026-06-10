@@ -119,4 +119,3 @@ BookStore helps readers easily discover, explore, and purchase books through a m
 
 
 
-لو مشروعك كان فيه API معين (زي Google Books API) أو Features مختلفة، ابعتيلي التفاصيل وأنا أخصصه ليبقى مطابق للمشروع 100%.
